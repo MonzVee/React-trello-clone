@@ -1,3 +1,8 @@
+
+A React project I was playing around with at the start of the year. A simple kanban application, with 3 cards, Tasks, Status and Done. The tasks can be moved as per the status of the work done.
+Next step will be to implement a login screen to the application.  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
